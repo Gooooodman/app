@@ -1,2 +1,2 @@
-FROM quay.io/kiali/kiali:v1.18
+FROM gcr.io/cadvisor/cadvisor:v0.37.0
 
